@@ -6,7 +6,7 @@ public class skilldemo1test{
 
     @Test
     public void concatTest(){
-        assertEquals("Okand?", skilldemo1.concat("OK", "and"));
+        assertEquals("Ok and?", skilldemo1.concat("OK", "and"));
     }
 
 
